@@ -1,4 +1,4 @@
-# HEY I AM Aman Jain
+# HEY I Am Aman Jain
 
 This is the very first project of my Fullstack Javascript Web development project. 
 Today i have Created Instagram resposnsive clone using HTML & CSS.
@@ -16,8 +16,8 @@ Today i have Created Instagram resposnsive clone using HTML & CSS.
 
 ## Screenshot of my Project
 
-![Instagram-Clone-using-HTML-CSS](Output1.png.png)
-![Instagram-Clone-using-HTML-CSS](Output2.png.png)
+![Instagram-Clone-using-HTML-CSS](Output1.png)
+![Instagram-Clone-using-HTML-CSS](Output2.png)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2254683c-8af2-4ec8-b6c0-243991bd062d/deploy-status)](https://amanjain-instagram-clone.netlify.app/)
 
