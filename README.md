@@ -12,16 +12,12 @@ Today i have Created Instagram resposnsive clone using HTML & CSS.
 
 ## Time Spent on this project
 
-- As it is my very first Project of my journey so here I spent to learn many new things Aprox 6 to 7 hours 
+- This project tooks my 12 hrs...
 
 ## Screenshot of my Project
 
-![Instagram-Clone-using-HTML-CSS](Screenshot_1.png)
-![Instagram-Clone-using-HTML-CSS](Screenshot_2.png)
-
-## Time Spent on this project
-
-- This project tooks my 12 hrs ...
+![Instagram-Clone-using-HTML-CSS](Output1.png.png)
+![Instagram-Clone-using-HTML-CSS](Output2.png.png)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2254683c-8af2-4ec8-b6c0-243991bd062d/deploy-status)](https://amanjain-instagram-clone.netlify.app/)
 
