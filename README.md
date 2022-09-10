@@ -16,5 +16,12 @@ Today i have Created Instagram resposnsive clone using HTML & CSS.
 
 ## Screenshot of my Project
 
-> [Deployed Link]()
+![Instagram-Clone-using-HTML-CSS](Screenshot_1.png)
+![Instagram-Clone-using-HTML-CSS](Screenshot_2.png)
+
+## Time Spent on this project
+
+- This project tooks my 12 hrs ...
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2254683c-8af2-4ec8-b6c0-243991bd062d/deploy-status)](https://amanjain-instagram-clone.netlify.app/)
 
